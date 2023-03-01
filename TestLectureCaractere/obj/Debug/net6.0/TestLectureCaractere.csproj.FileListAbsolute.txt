@@ -1,0 +1,15 @@
+C:\Users\Kinoukill\source\repos\TestLectureCaractere\TestLectureCaractere\bin\Debug\net6.0\TestLectureCaractere.exe
+C:\Users\Kinoukill\source\repos\TestLectureCaractere\TestLectureCaractere\bin\Debug\net6.0\TestLectureCaractere.deps.json
+C:\Users\Kinoukill\source\repos\TestLectureCaractere\TestLectureCaractere\bin\Debug\net6.0\TestLectureCaractere.runtimeconfig.json
+C:\Users\Kinoukill\source\repos\TestLectureCaractere\TestLectureCaractere\bin\Debug\net6.0\TestLectureCaractere.dll
+C:\Users\Kinoukill\source\repos\TestLectureCaractere\TestLectureCaractere\bin\Debug\net6.0\TestLectureCaractere.pdb
+C:\Users\Kinoukill\source\repos\TestLectureCaractere\TestLectureCaractere\obj\Debug\net6.0\TestLectureCaractere.csproj.AssemblyReference.cache
+C:\Users\Kinoukill\source\repos\TestLectureCaractere\TestLectureCaractere\obj\Debug\net6.0\TestLectureCaractere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kinoukill\source\repos\TestLectureCaractere\TestLectureCaractere\obj\Debug\net6.0\TestLectureCaractere.AssemblyInfoInputs.cache
+C:\Users\Kinoukill\source\repos\TestLectureCaractere\TestLectureCaractere\obj\Debug\net6.0\TestLectureCaractere.AssemblyInfo.cs
+C:\Users\Kinoukill\source\repos\TestLectureCaractere\TestLectureCaractere\obj\Debug\net6.0\TestLectureCaractere.csproj.CoreCompileInputs.cache
+C:\Users\Kinoukill\source\repos\TestLectureCaractere\TestLectureCaractere\obj\Debug\net6.0\TestLectureCaractere.dll
+C:\Users\Kinoukill\source\repos\TestLectureCaractere\TestLectureCaractere\obj\Debug\net6.0\refint\TestLectureCaractere.dll
+C:\Users\Kinoukill\source\repos\TestLectureCaractere\TestLectureCaractere\obj\Debug\net6.0\TestLectureCaractere.pdb
+C:\Users\Kinoukill\source\repos\TestLectureCaractere\TestLectureCaractere\obj\Debug\net6.0\TestLectureCaractere.genruntimeconfig.cache
+C:\Users\Kinoukill\source\repos\TestLectureCaractere\TestLectureCaractere\obj\Debug\net6.0\ref\TestLectureCaractere.dll
